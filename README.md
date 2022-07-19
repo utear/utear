@@ -1,18 +1,33 @@
 # hi! I'm cube
-<p>
- <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=imycube&theme=dark&show_icons=true&hide_border=false&line_height=20&title_color=FF8C00&icon_color=1b93c9&show_owner=true"
-<p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-  </p>
-  </p>
+
+<img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=imycube&theme=dark&show_icons=true&hide_border=false&line_height=20&title_color=FF8C00&icon_color=1b93c9&show_owner=true" />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imycube&layout=compact&count_private=true&theme=gruvbox" />
+
+## 🚀💻 Technologies & Tools
+
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+  
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
+
+![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
+![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
+
+
 
