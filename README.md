@@ -1,8 +1,8 @@
 # hi! I'm cube
 
-<img src="https://github-readme-stats.vercel.app/api?username=imycube&theme=dark&show_icons=true&hide_border=false&line_height=20&title_color=FF8C00&icon_color=1b93c9&show_owner=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=utear&theme=dark&show_icons=true&hide_border=false&line_height=20&title_color=FF8C00&icon_color=1b93c9&show_owner=true" />
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imycube&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utear&layout=compact&count_private=true&theme=gruvbox" />
 
 ## 🚀💻 Technologies & Tools
 
