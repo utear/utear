@@ -19,6 +19,9 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
 
+![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis)
+![MongoDB](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
+
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
@@ -26,8 +29,7 @@
 ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
+
 
 
 
